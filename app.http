@@ -1,0 +1,3 @@
+GET http://localhost:3000/doctors/?search_q=Rajiv
+###
+GET http://localhost:3000/doctors/1
